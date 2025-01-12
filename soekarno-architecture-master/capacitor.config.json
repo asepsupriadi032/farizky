@@ -1,0 +1,8 @@
+{
+  "appId": "com.techtales.sukarnoarchitecture",
+  "appName": "sukarno-architecture",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

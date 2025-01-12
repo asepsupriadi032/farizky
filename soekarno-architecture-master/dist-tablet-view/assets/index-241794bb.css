@@ -1,0 +1,1 @@
+#TabletView{height:99vh;position:absolute;z-index:1;left:50%;top:50vh;transform:translate(-50%,-50%)}iframe{position:absolute;height:calc(var(--tabletViewHeight) * .89);width:calc(var(--tabletViewWidth) * .867);left:calc(50% - var(--tabletViewWidth) * .927 / 2);top:6.3%;border-radius:30px 0 0 30px;z-index:1;background-color:#000}

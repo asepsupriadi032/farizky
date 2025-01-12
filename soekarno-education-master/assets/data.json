@@ -1,0 +1,115 @@
+[
+    {
+        "ID": 1,
+        "Sekolah": "Inlandsche School",
+        "Sekolah_ID": "Sekolah Rakyat untuk Bumiputra",
+        "Sekolah_EN": "Indigenous Schools",
+        "Image_Card_BG": "assets/home-card-bg/Tweede.svg",
+        "Image_BG": "assets/detail-bg/img1.jpeg",
+        "Image_SQ": "assets/detail-sq/img1.png",
+        "Waktu": "1907 - 1912",
+        "highlights": [
+            {
+                "text_id": "Bung Karno dan keluarganya pindah ke Mojokerto dari Surabaya karena ayahnya ditugaskan jadi mantri guru atau kepala sekolah di Inlandsche School Mojokerto. Mereka tinggal di rumah kontrakan yang berada di Jalan Pahlawan 88.",
+                "text_en": "Bung Karno and his family moved to Mojokerto from Surabaya because his father was assigned as a headmaster at the Inlandsche School in Mojokerto. They lived in a rented house on Pahlawan Street number 88.",
+                "image": "assets/highlight/periode1_1.jpg"
+            },
+            {
+                "text_id": "Bung Karno memulai pendidikannya di Inlandsche School atau Sekolah Rakyat khusus pribumi yang biasa disebut Sekolah Ongko Loro.",
+                "text_en": "Bung Karno began his education at Inlandsche School, also known as Sekolah Rakyat, which was a school specifically for native Indonesians and commonly referred to as Sekolah Ongko Loro.",
+                "image": "assets/highlight/periode1_2.jpg"
+            },
+            {
+                "text_id": "Bung Karno suka bermain dengan teman-temannya. Permainan yang digemari Bung Karno antara lain gasing, sumpitan, dan tarik kereta menggunakan pelepah pinang.",
+                "text_en": "Bung Karno enjoyed playing with his friends. Some of his favorite games were spinning tops, blowpipes, and pulling a cart using palm leaf stems.",
+                "image": "assets/highlight/periode1_3.jpg"
+            },
+            {
+                "text_id": "Ketika Mojokerto dilanda wabah kolera, Bung Karno sempat terkena wabah tersebut dan menjadi sering sakit. Oleh ayahnya, nama Bung Karno diubah dari Kusno menjadi Sukarno.",
+                "text_en": "When Mojokerto was struck by a cholera outbreak, Bung Karno was affected by the epidemic and frequently fell ill. His father changed Bung Karno's name from Kusno to Sukarno.",
+                "image": "assets/highlight/periode1_4.jpg"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Sekolah": "Europeesche Lagere School (ELS)",
+        "Sekolah_ID": "Sekolah Dasar Eropa",
+        "Sekolah_EN": "European Elementary School",
+        "Image_Card_BG": "assets/home-card-bg/Europeesche.svg",
+        "Image_BG": "assets/detail-bg/img2.jpeg",
+        "Image_SQ": "assets/detail-sq/img2.png",
+        "Waktu": "1912 - 1916",
+        "highlights": [
+            {
+                "text_id": "Bung Karno pindah ke Europeesche Lagere School (ELS), sekolah dasar untuk kaum Eropa dan pribumi tertentu. Sekolah ini memberikan akses untuk melanjutkan pendidikan ke jenjang lebih tinggi. Di ELS, Bung Karno mengalami turun kelas karena tidak lolos tes bahasa Belanda.",
+                "text_en": "Sukarno moved to Europeesche Lagere School (ELS), a primary school for European and certain native students. This school provided access to further education at higher levels. At ELS, Sukarno experienced a grade drop because he did not pass the Dutch language test.",
+                "image": "assets/highlight/periode2_1.jpg"
+            },
+            {
+                "text_id": "Bung Karno belajar bahasa Belanda satu jam setiap hari bersama Juffrouw M. P. de La Riviere dan berteman dekat dengan gadis Belanda bernama Rika. Di ELS, Bung Karno tidak suka bermain bola karena kerap diejek oleh anak-anak Belanda.",
+                "text_en": "Bung Karno learned Dutch for one hour every day with Juffrouw M. P. de La Riviere and became close friends with a Dutch girl named Rika. At ELS, Bung Karno didn't like playing football because he was often teased by the Dutch children.",
+                "image": "assets/highlight/periode2_2.jpg"
+            },
+            {
+                "text_id": "Selain bermain dengan teman sebayanya, Bung Karno juga bergaul dengan Wagiman, seorang perangkat desa. Bung Karno menyukai wayang karena sering berdiskusi dengan Wagiman di dangau.",
+                "text_en": "In addition to playing with his friends, Bung Karno also socialized with Wagiman, a village official. Bung Karno enjoyed wayang performances because he often had discussions with Wagiman in the dangau (porch).",
+                "image": "assets/highlight/periode2_3.jpg"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Sekolah": "Hogere Burger School (HBS)",
+        "Sekolah_ID": "Sekolah Menengah Umum",
+        "Sekolah_EN": "General Secondary School",
+        "Image_Card_BG": "assets/home-card-bg/Hogere.svg",
+        "Image_BG": "assets/detail-bg/img3.jpeg",
+        "Image_SQ": "assets/detail-sq/img3.png",
+        "Waktu": "1916 - 1921",
+        "highlights": [
+            {
+                "text_id": "Bung Karno masuk HBS dan indekos di rumah teman ayahnya, HOS Tjokroaminoto, pemimpin Sarekat Islam.Di HBS, Bung Karno mengaku pelukis yang hebat dan pandai dalam pelajaran bahasa. Gambarnya pernah ditunjukkan ke seluruh kelas dan ia disayang guru Bahasa Jerman karena bergabung dalam kelompok debat.",
+                "text_en": "Sukarno entered HBS and stayed at the house of his father's friend, HOS Tjokroaminoto, the leader of Sarekat Islam. At HBS, Sukarno claimed to be a great painter and excelled in language lessons. His drawings were once shown to the entire class, and he was favored by the German language teacher for joining the debate group.",
+                "image": "assets/highlight/periode3_1.jpg"
+            },
+            {
+                "text_id": "Bung Karno sering terlibat dalam diskusi politik dengan teman-teman satu indekosnya. Pemikirannya semakin berkembang dan dituangkan melalui tulisan di surat kabar Oetoesan Hindia.",
+                "text_en": "Bung Karno often engaged in political discussions with his fellow boarding housemates. His thoughts continued to develop and were expressed through writings in the Oetoesan Hindia newspaper.",
+                "image": "assets/highlight/periode3_2.jpg"
+            },
+            {
+                "text_id": "Bung Karno lulus dari HBS pada 10 Juni 1921. Ia ingin melanjutkan pendidikan ke Belanda namun ibunya tidak setuju, sehingga ia melanjutkan pendidikan di Indonesia.",
+                "text_en": "Sukarno graduated from HBS on June 10, 1921. He wanted to continue his education in the Netherlands, but his mother disagreed, so he continued his education in Indonesia.",
+                "image": "assets/highlight/periode3_3.jpg"
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Sekolah": "Technische Hogeschool Bandung",
+        "Sekolah_ID": "Sekolah Tinggi Teknik Bandung",
+        "Sekolah_EN": "Bandung Institute of Technology (ITB)",
+        "Image_Card_BG": "assets/home-card-bg/Technische.svg",
+        "Image_BG": "assets/detail-bg/img4.jpeg",
+        "Image_SQ": "assets/detail-sq/img4.png",
+        "Waktu": "1921 - 1926",
+        "highlights": [
+            {
+                "text_id": "Bung Karno diterima di THB jurusan teknik sipil pada 1921. Ia kuliah dengan biaya sendiri dari hasil bekerja sebagai klerk di stasiun kereta api.",
+                "text_en": "Sukarno was accepted into THB majoring in civil engineering in 1921. He funded his own studies by working as a clerk at the train station.",
+                "image": "assets/highlight/periode4_1.jpg"
+            },
+            {
+                "text_id": "Mata kuliah favoritnya menggambar arsitektur karena banyak mendapat pengaruh dari dosennya, Charles Prosper Wolff Schoemaker. Bung Karno tidak suka dan lemah dalam mata kuliah ilmu pasti, contohnya matematika",
+                "text_en": "His favorite subject is architectural drawing because he was influenced by his professor, Charles Prosper Wolff Schoemaker. Bung Karno doesn't like and is weak in subjects like mathematics.",
+                "image": "assets/highlight/periode4_2.jpg"
+            },
+            {
+                "text_id": "Pada 25 Mei 1926, Bung Karno diwisuda dari THB dengan gelar \"Ingenieur\". Ia lulus sebagai spesialisasi dalam pekerjaan jalan raya dan pengairan.",
+                "text_en": "On May 25, 1926, Sukarno graduated from THB with the degree of \"Ingenieur\". He specialized in road construction and irrigation.",
+                "image": "assets/highlight/periode4_3.jpg"
+            }
+        ]
+    }
+]

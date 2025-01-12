@@ -1,0 +1,140 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.color-primary {
+    color: $primary;
+}
+.color-primary-light {
+    color: $primary-light;
+}
+.color-black {
+    color: $black;
+}
+.color-gray {
+    color: $gray;
+}
+
+.roboto-serif-regular {
+    font-family: $font-family-base;
+    font-weight: 400;
+}
+.roboto-serif-medium {
+    font-family: $font-family-base;
+    font-weight: 500;
+}
+.roboto-regular {
+    font-family: $font-family-roboto;
+    font-weight: 400;
+    letter-spacing: -0.002rem;
+}
+.roboto-medium {
+    font-family: $font-family-roboto;
+    font-weight: 500;
+    letter-spacing: 0.007rem;
+}
+
+.h1,h1 {
+    font-size: 48px
+}
+
+.h2,h2 {
+    font-size: 40px
+}
+
+.h3,h3 {
+    font-size: 32px
+}
+
+.h4,h4 {
+    font-size: 24px
+}
+
+.h5,h5 {
+    font-size: 1.25rem
+}
+
+.h6,h6 {
+    font-size: 1rem
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+.fs-24 {
+    font-size: 24px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+.fs-40 {
+    font-size: 40px;
+}
+.fs-80 {
+    font-size: 80px;
+}
+
+.lh-21 {
+    line-height: 21px;
+}
+.lh-28 {
+    line-height: 28px;
+}
+.lh-42 {
+    line-height: 42px;
+}
+.lh-40 {
+    line-height: 40px;
+}
+.lh-50 {
+    line-height: 50px;
+}
+.lh-80 {
+    line-height: 80px;
+}
+
+.btn {
+    background-color: $primary;
+    border-radius: 50px;
+    color: $white;
+    padding: 5px 14px;
+    font-family: $font-family-roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    &:hover {
+        color: $white;
+    }
+
+    &.btn-black {
+        background-color: $black-1;
+    }
+}
+
+#head-logo {
+    position: relative;
+    height: 60px;
+    margin-left: -10px;
+    display: flex;
+
+    img {
+        height: 100%;
+        margin-left: 10px;
+    }
+}
+.back-btn {
+    background-color: $primary;
+    border-radius: 50px;
+    color: $white;
+    padding: 7px 15px;
+
+    &:hover {
+        background: $white;
+        color: $gray-3;
+
+        svg path {
+            fill: $gray-3;
+        }
+    }
+}
